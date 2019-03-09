@@ -7,6 +7,15 @@
 				<styleUrl>#0</styleUrl>
 								<ExtendedData>
 									</ExtendedData>
+								<address>New York, New York </address>
+				<Point>
+					<coordinates>-74.0059728,40.7127753,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
 								<address>Los Angeles, California </address>
 				<Point>
 					<coordinates>-118.2436849,34.0522342,0</coordinates>
